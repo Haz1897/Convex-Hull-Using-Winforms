@@ -1,0 +1,17 @@
+C:\VSProjects\Convex Hull\Convex Hull\bin\Debug\net6.0-windows\Convex Hull.exe
+C:\VSProjects\Convex Hull\Convex Hull\bin\Debug\net6.0-windows\Convex Hull.deps.json
+C:\VSProjects\Convex Hull\Convex Hull\bin\Debug\net6.0-windows\Convex Hull.runtimeconfig.json
+C:\VSProjects\Convex Hull\Convex Hull\bin\Debug\net6.0-windows\Convex Hull.dll
+C:\VSProjects\Convex Hull\Convex Hull\bin\Debug\net6.0-windows\Convex Hull.pdb
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.csproj.AssemblyReference.cache
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.csproj.GenerateResource.cache
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.AssemblyInfoInputs.cache
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.AssemblyInfo.cs
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.csproj.CoreCompileInputs.cache
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.dll
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\refint\Convex Hull.dll
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.pdb
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex Hull.genruntimeconfig.cache
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\ref\Convex Hull.dll
+C:\VSProjects\Convex Hull\Convex Hull\obj\Debug\net6.0-windows\Convex_Hull.Form1.resources
